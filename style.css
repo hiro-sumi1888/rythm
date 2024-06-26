@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#controls {
+    margin-top: 20px;
+}
+
+#measure {
+    margin-top: 50px;
+}
+
+#progress-bar {
+    width: 80%;
+    height: 30px;
+    background-color: #ddd;
+    margin: 0 auto;
+    position: relative;
+}
+
+#progress {
+    height: 100%;
+    width: 0;
+    background-color: #76c7c0;
+}
+
+#notes {
+    margin-top: 20px;
+}
+
+.note {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
